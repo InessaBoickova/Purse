@@ -50,9 +50,9 @@
 
         &_active {
             display: flex;
+            justify-content: space-evenly;
         }
     }
-
     &-item {
         width: 300px;
         min-height: 440px;
